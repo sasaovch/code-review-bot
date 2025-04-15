@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: code-review-bot
+
+server:
+  port: 80
+
+bot:
+  token: ${BOT_API_TOKEN}
